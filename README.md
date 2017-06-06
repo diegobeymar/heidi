@@ -121,3 +121,22 @@ Est-il possible d'obtenir la liste de tous les problèmes possibles ?
 Si non, pourquoi ? Si oui, comment (et donnez alors le code le permettant) ?
 
 ![Heidi Movie](https://www.letemps.ch/sites/default/files/styles/lt_article_cover/public/media/2016/02/02/file6o9gy7gfina16ntcshsz.jpg?itok=GcUNmRYv)
+
+# Grade
+
+* Have you done something? yes
+* Does your code compile or run?
+* Do your tests succeed? some
+* Have you defined tests? some
+* Have you done the proof? not really
+* Have you given all the problems? yes
+* Have you written the semantics as inference rules? yes, but missing semantics for lists
+* Have you implemented the semantics? yes, but it is buggy.
+
+__It seems that you have copy/pasted some code from Aslam Cader:
+in your code `procedure `htoT_oneorder(A,B)' does not exist`.
+It appears only in Aslam's work.__
+
+| Grade |
+| ----- |
+|   0   |
